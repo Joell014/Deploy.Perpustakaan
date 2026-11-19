@@ -6,7 +6,7 @@
 
     <section class="hero">
 
-        <h2>Selamat Datang di Perpustakaan Digital</h2>
+        <h2>Selamat Datang di Perpustakaan Digital 250441100012</h2>
 
         <p>
             Temukan berbagai koleksi buku untuk menambah
